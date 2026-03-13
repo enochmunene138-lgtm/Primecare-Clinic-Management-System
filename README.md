@@ -1,6 +1,6 @@
 # PrimeCare Clinic Management System
 
-## Developer InformatioN
+## Developer Information
 
 | Developer |ENOCH MUNENE |
 | Admission No | 1365 |
