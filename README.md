@@ -1,7 +1,6 @@
 # PrimeCare Clinic Management System
 
-## Developer Information
-| Field | Details |
+## Developer InformatioN
 
 | Developer |ENOCH MUNENE |
 | Admission No | 1365 |
@@ -35,7 +34,6 @@ appointments, consultations, billing and reports.
 
 ## Login Credentials
 | Username | Password | Role |
-|---|---|---|
 | admin | password | Administrator |
 | dr.amina | password | Doctor |
 | dr.james | password | Doctor |
